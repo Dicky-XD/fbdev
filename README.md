@@ -1,4 +1,5 @@
-
+#### Jangan Lupa Kasih Bintang Dan Follow Github Gue
+```
 #### ⇨  Install Script Di Termux
 ```
 $ pkg update && upgrade  
