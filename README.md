@@ -3,6 +3,7 @@
 ```
 #### ⇨  Install Script Di Termux
 ```
+```
 $ pkg update && upgrade  
 $ termux-setup-storage  
 $ pkg install python2  
