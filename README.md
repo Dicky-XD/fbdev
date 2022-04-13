@@ -1,5 +1,5 @@
 #### Jangan Lupa Kasih Bintang Dan Follow Github Gue
-#### Authour:IqbalDev
+#### Authour:amir
 ```
 #### ⇨  Install Script Di Termux
 ```
